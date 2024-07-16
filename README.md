@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esssyjr
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ismailismailtj@gmail.com
 
